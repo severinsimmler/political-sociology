@@ -1,0 +1,45 @@
+html {
+background-color: #1A1A1A;
+color: #FFF;
+font-family: "Liberation Sans", Helvetica, sans-serif;
+font-size: 89%;
+line-height: 1.2em;
+}
+
+body {
+width: 85%;
+padding: 20px;
+border-right: solid 2px #AAA;
+}
+
+h1 {
+text-align: right;
+padding-bottom: 20px;
+border-bottom: 1px solid #CCC;
+line-height: 1.2em;
+}
+
+h2 {
+line-height: 1.1 em;
+}
+
+a, a:visited {
+color: #88C34B;
+text-decoration: none;
+}
+
+a:hover {
+color: #900;
+}
+
+table {
+font-family: "Liberation Sans", sans-serif;
+font-size: 10pt;
+line-height: 1.35em;
+}
+
+td {
+text-align: center;
+}
+
+
