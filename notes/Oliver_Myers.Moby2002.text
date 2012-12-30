@@ -1,0 +1,30 @@
+# Oliver, Pamela and Daniel J. Myers. 2002. "The coevolution of social movements." *Mobilization* 8(1): 1-24.
+
+1. Introduction
+	- Two arguments
+		1. Coevolution can provide a theoretical structure for organizing existing understandings of social movements and sharpening future research.
+		2. Developing formal models of movement coevolution is a crucial part of a total research program for understanding social movements.
+	- Two fundamental observations
+		1. In social movements, actions affect other actions, e.g. diffusion, strategic interactions.
+		2. Mixes of actions emitted by different kinds of actors evolve (change) over time, and that action sets of actors coevolve with each other. 
+2. From social movement as organism to social movement as a population of actions in a system of actions
+	- Social movements are not coherent entities. Many different actors in each side.
+	- SMs are like species - populations of collective actions with statistical distributions of properties. 
+		- They evolve and shift in what they do.
+	- Can think of SMs as a distribution of events that act across a population of actors [huh?]
+3. Strategic interactions and coevolution
+	- SMs are always shaped by actions of opponents and bystanders.
+4. Event-oriented and theoretical synthesis
+	- Uniting RM, frames, and PPT into a coevolutionary synthesis. 
+5. Towards formal models: some initial results
+	- Dynamics of Contention -- moving away from thinking of causes and effects and towards identifying mechanisms and processes that occur across many settings.
+	- Key mechanisms - stochastic probabilities, diffusion, adaptive learning, mutual adaption, and competition.
+	- Need to formalize mechanisms, and whether the formalization can produce the kinds of patterns that are empirically observed.
+6. Formal models and the realities of collective action
+	- Simple stochastic processes - purely random processes produce event series which exhibit apparent cycles.  
+	- Processes that change probabilities: Diffusion and adaptive learning - probabilities change.
+		- adaptive learning is a process where actors change behavior depending on its outcomes.
+		- diffusion is a process in which people change behavior depending on what others are doing.
+			- Mathematically, key is that probability of action is a function of the amount of prior action.
+	- Mutual reinforcement processes - protest actors in a coevolutionary relationship in which each modifies their behavior in response to the other. 
+	- Competition and differential selection processes - mix of action types is affected by the differential response to them by a regime.

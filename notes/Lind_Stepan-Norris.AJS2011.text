@@ -1,0 +1,104 @@
+# Benjamin Lind and Judith Stepan-Norris. 2011. "The Relationality of Movements: Movement and Countermovement Resources, Infrastructure, and Leadership in the Los Angeles Tenants' Rights Mobilization, 1976–1979." *AJS* 116(5).
+
+1. Introduction
+   - Many studies have focused on resources, infrastructure, and
+     leadership for social movements, but few have focused on
+     relationality of movements and countermovements.
+   - Focusing on those elements of both movements and
+     countermovements.
+   - Spatial analysis to determine which enhanced renter mobilization
+     in LA. 
+   - Why did different subsections of the city respond with varying
+     levels of mobilization?
+   - Moving beyond literature in two ways: 
+     1. emphasizing relationality of movements by looking at factors
+     involved with movement mobilization and considering
+     infrastructure and leadership of the counter movement.
+     2. Incorporate the role of geographical space into social
+     movement infrastructure through both organizational network ties
+     and geographic advantage of location and proximity.  
+   - Do this by using historical case study design with quant data
+     from survey, sociodemographic, and spatial sources. 
+   - Trying to focus on local-level movements to avoid national-level
+     bias in SM studies. 
+   - *Resources*
+     - expecting that labor and student participant to e
+     msot beneficial for retners' mobilization. Monetary resources of
+     individuals as having an upper limit. 
+   - *Infrastructure* -- Infrastructure as multiple organizations and
+     network ties that cross spatial, racial/ethnic, or class
+     boundaries.
+     - addressing Brieger duality between neighborhoods as formed by
+       mutal organizational presence.
+   - *Leadership* -- influences goals, strategies, organizational
+      structures, and interactions with others. 
+     - renter activists' "strategic capacity" should be stronger with
+       more strong/weak ties and where renter populations overlap with
+       groups more experienced in other SM areas. 
+2. Countermovements
+   - need to understand infrastructure and strategic capacity of the
+     "countermovement"
+   - emphasize the relationality of movements and countermovements. 
+   - by nature of property ownership, each member of the landlord
+     organization has considerably more recourses than members of the
+     renter organization. 
+   - analyze how countermovement leaders and organizational centrality
+     deter renter movement mobilization
+3. Data
+   - Measuring "rent control" mentions from newspaper data as a proxy
+     for mobilization.
+   - Cross-sectional random sample telephone survey of LA tenants
+   - Archival records of speakers on rent control at LA City Council
+     meetings
+   - Neighborhood level demographic data from the census
+   - Newsletters of largest pro-tenant organization. 
+4. The sample
+   - To measure mobilization, use the number of tenant activists
+     within each zip code in 1979, give the number of tenant
+     nonactivists within the same zip code.
+   - An artifact of the random-sampling made it such that the higher
+     number of tenants in an area, the more likely there would be an
+     activist there. 
+   - To account for this, using a "two-column" logisitic regresion -
+     dependent variable may include multiple binomial trials. 
+5. Measurement of independent variables
+   - percentage of renters from census
+   - *resources* - % college grads, % of tenants who belonged to labor
+      unions, median household income. 
+   - *infrastructure* - five indicators: geographical distance to
+      other parts of LA; number of orgs representing tenants interests
+      with active members in the locale; neighborhood centrality of
+      these organizations; number of organizations representing
+      landlord interests; neighborhood centrality of landlord orgs. 
+      - organizations in locales -- number of protenant/prolandlord
+        movement orgs with one or more participants in city council
+        meetings.
+      - from this, constructing neighborhood ties as common membership
+        in tenants'/landlords' organizations -- turning into one-mode
+        data, then measuring degree centrality for each zip code. 
+   - *leadership* - absolute number of peoplpe who spoke at City
+      Council meetings
+6. Results and analysis
+   - On average, most zip codes don't have any tenant
+     activists. Leadership is a relative rare phenomenon. 
+   - Unionization and college grads as positive and significant. 
+   - Average distance to other LA zip codes as negative and
+     significant.
+   - neighborhood organizational centrality of landlords suppresses
+     tenant mobilization. however, same measure for tenant
+     organizations is not significant. 
+     - effect of protenant neighborhood centrality actually recedes
+       after accounting for counter-movement infrastructure
+   - leadership for tenants fails to be significant, although
+     is significant for landlords. 
+7. Conclusions
+   - They demonstrate the extent tow hich the relationality of social
+     movements and countermovements must be considered. 
+   - Infrastructure matters.
+   - When countermovements have strong centrality, their impact on
+     decreasng mobilization is greater. Could be due to
+     interorganizational communication and breath of available
+     information. 
+   - This builds on Gould 1991 by extending it for the respective
+     countermovement. 
+   - Number of leaders matter for landlords but not for tenants. 
