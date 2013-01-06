@@ -17,10 +17,9 @@ for row in reader:
     else:
         afternoon[ row[2] ] = 1
 
-
 msg = ''
 
-msg = "Morning questions. Choose two.\n"
+msg = "<strong>Morning questions. Choose two.</strong>\n\n"
 for i in range(1,5):
     choice = random.choice(morning.keys())
     if choice not in chosen: 
@@ -30,7 +29,7 @@ for i in range(1,5):
     #time.sleep(1)
 
 msg += "\n"
-msg += "Afternoon questions. Choose two."
+msg += "<strong>Afternoon questions. Choose two.</strong>\n\n"
 for i in range(1,5):
     choice = random.choice(afternoon.keys())
     if choice not in chosen: 
