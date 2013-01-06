@@ -40,20 +40,10 @@ for i in range(1,5):
     #time.sleep(1)
 
 emailmsg = MIMEText(msg, _charset='utf-8') 
-emailmsg['Subject'] = Header("Practice Prelim Exam Fall 2012", 'utf-8')
-emailmsg['From']    = "The Third Wave"
+emailmsg['Subject'] = Header("Practice Prelim Exam Winter 2013", 'utf-8')
+emailmsg['From']    = "Prelim committee"
 emailmsg['To']      = "alex.hanna@gmail.com"
 
 s = smtplib.SMTP('localhost')
 s.sendmail('ahanna', ['alex.hanna@gmail.com'], emailmsg.as_string())
 s.quit()
-
-
-
-
-
-
-
-
-
-
